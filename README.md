@@ -45,7 +45,7 @@ Rompiendo Barreras es una aplicación creada para transformar la experiencia de 
  <h3 align="center">Ecommerce de Productos Tecnológicos</h3>
  <div align="center">
  <a href="#" target="_blank">
- <img src="https://github.com/RocioBonin/deploy-api/blob/main/swagger.png" width="500" alt="Ecommerce de Productos Tecnólogicos">
+ <img src="https://github.com/RocioBonin/deploy-api/blob/main/swagger.png" width="550" alt="Ecommerce de Productos Tecnólogicos">
  </a>
  <p>
  <a href="https://github.com/RocioBonin/deploy-api" target="_blank">
